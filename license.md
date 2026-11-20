@@ -203,4 +203,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Assetto Corsa · Updated 2026-11-19 · Shared under the MIT License*
+*Assetto Corsa · Updated 2026-11-20 · Shared under the MIT License*
